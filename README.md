@@ -2,15 +2,15 @@
 Course material for the lecture "Differential Equations in the Earth System" (WS 2019/2020)
 at the Institute of Geosciences (Department of Geophysics), Christian-Albrechts-University Kiel
 
-[https://danielkoehnsite.wordpress.com/blog/differential-equations-in-the-earth-system](Homepage "Differential Equations in the Earth System" lecture)
+[Homepage "Differential Equations in the Earth System" lecture](https://danielkoehnsite.wordpress.com/blog/differential-equations-in-the-earth-system)
 
 This lecture will be based on the "Practical Numerical Methods with Python" course by Lorena A. Barba, Ian Hawke, Bernard Knaepen:
 
-[https://github.com/numerical-mooc/numerical-mooc](Practical Numerical Methods with Python)
+[Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc)
 
 and the "CFD Python: the 12 steps to Navier-Stokes equations" course by Lorena A. Barba, Gilbert F. Forsyth:
 
-[https://github.com/barbagroup/CFDPython](CFD Python: the 12 steps to Navier-Stokes equations)
+[CFD Python: the 12 steps to Navier-Stokes equations](https://github.com/barbagroup/CFDPython)
 
 Barba, Lorena A., and Forsyth, Gilbert F. (2018). CFD Python: the 12 steps to Navier-Stokes equations. _Journal of Open Source Education_, **1**(9), 21, https://doi.org/10.21105/jose.00021
 

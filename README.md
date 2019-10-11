@@ -2,7 +2,7 @@
 Course material for the lecture "Differential Equations in the Earth System" (WS 2019/2020)
 at the Institute of Geosciences (Department of Geophysics), Christian-Albrechts-University Kiel
 
-[Homepage "Differential Equations in the Earth System" lecture](https://danielkoehnsite.wordpress.com/blog/Differential-Equations-in-the-Earth System/)
+[https://danielkoehnsite.wordpress.com/blog/differential-equations-in-the-earth-system](Homepage "Differential Equations in the Earth System" lecture)
 
 This lecture will be based on the "Practical Numerical Methods with Python" course by Lorena A. Barba, Ian Hawke, Bernard Knaepen:
 

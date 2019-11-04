@@ -4,7 +4,7 @@ In this module I introduce the finite-difference method to solve ordinary differ
 
 ## Lecture 2: Introduction to the Finite-Difference Method
 
-### [Lesson 1](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/02_finite_difference_intro/1_fd_intro.ipynb): Finite Difference Approximations
+### [Lesson 1](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/02_finite_difference_intro/1_fd_intro.ipynb): The Finite Difference Method
 
 We discuss different finite difference approximations of first and second derivatives of the Gaussian function and their accuracy.
 

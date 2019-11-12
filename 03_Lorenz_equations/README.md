@@ -21,7 +21,7 @@ estimated by setting all time derivatives in the differential equation to zero. 
 We will program some simple python routines for the numerical integration and visualization of the Lorenz Equations and investigate the dynamic of the solutions using the temporal evolution and the phase space 
 trajectories.
 
-### [Lesson 4](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/03_Lorenz_equations/04_LorenzEquations_fdsolve_movie.ipynb): Lorenz Equations - The Movie
+### [Lesson 4](https://nbviewer.jupyter.org/github/daniel-koehn/Differential-equations-earth-system/blob/master/03_Lorenz_equations/04_LorenzEquations_fdsolve_movie.ipynb): Lorenz Equations - The Movie
 
 After all the equations, math, physics, simplifications, programming and visualizations, it is time to finish this lecture with some relaxing movies, showing the time evolution of the 2D temperature and velocity 
 vector fields. 

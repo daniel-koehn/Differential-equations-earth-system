@@ -8,7 +8,7 @@ In this module I introduce different finite-difference based approaches to solve
  
 In the [last lecture](https://github.com/daniel-koehn/Differential-equations-earth-system/tree/master/03_Lorenz_equations#ordinary-differential-equations-in-earth-sciences-the-lorenz-equations), 
 we looked into numerical integration methods for the solution of ordinary differential equations (ODEs), using a simplified thermal convection problem - the Lorenz equations. In this module, we 
-will study the numerical solution of **partial differential equations (PDEs)**, where the unknown is a multi-variate function. The problem could depend on time, $t$, and one spatial dimension $x$ 
+will study the numerical solution of **partial differential equations (PDEs)**, where the unknown is a multi-variate function. The problem could depend on time, t, and one spatial dimension x 
 (or more), which means we need to build a discretization grid with each independent variable. We will start our discussion of numerical PDEs with 1-D linear and non-linear advection equations.
 
 ### [Lesson 2](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/04_Advection_1D/02_CFLCondition.ipynb): 1D Linear Advection Problem: Stability and CFL condition

@@ -1,4 +1,4 @@
-# Ordinary Differential Equations in Earth Sciences: 1D (Non)Linear Advection
+# Differential Equations in Earth Sciences: 1D (Non)Linear Advection
 
 In this module I introduce different finite-difference based approaches to solve the 1D (non)linear advection equation.
 

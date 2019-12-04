@@ -1,4 +1,4 @@
-# Ordinary Differential Equations in Earth Sciences: 1D Diffusion
+# Differential Equations in Earth Sciences: 1D Diffusion
 
 In this module, I introduce a finite-difference based approach to solve the 1D diffusion equation and apply the code to solve two problems related to earth sciences
 

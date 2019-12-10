@@ -9,13 +9,13 @@ In this module, we discuss a finite-difference based FTCS approach to solve the 
 In this lesson, we graduate to two dimensions! A 2D heat-conduction problem is described, representing a computer microchip, and is solved with an explicit time integration scheme. 
 The lesson covers boundary conditions in 2D and array-storage decisions.
 
-### [Lesson 2](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/06_Heat_2D/02_Optimizing_Heat_Equation_2D.ipynb): Performance optimization of the 2D heat equation finite difference modelling code
+### [Lesson 2](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/06_Heat_2D/02_Optimizing_Heat_Equation_2D.ipynb): Performance optimization of the 2D heat equation FTCS-FD modelling code
  
 During the last class, we developed a 2D heat equation FD code. However, if we investigate this "vanilla" Python implementation using a computationally more demanding test problem, 
 the runtime performance is quite underwhelming. Therefore, the aim of this lesson is to optimize the performance of the 2D heat equation code with Just-In-Time (JIT) code compilation 
 using the Numba package and NumPy array operations.
 
-### [Lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/06_Heat_2D/03_Heat_Equation_2D_analytical solution.ipynb): 2D Heat Equation: Comparison between analytical and numerical solution
+### [Lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/06_Heat_2D/03_Heat_Equation_2D_analytical_solution.ipynb): 2D Heat Equation: Comparison between analytical and numerical solution
  
 In this module, we developed a finite difference modelling code to solve the 2D heat equation and optimized the runtime performance using Just-In-Time (JIT) compilation. What is still 
 missing is a comparison between an analytical and the corresponding numerical solution. This will be the focus of this exercise.

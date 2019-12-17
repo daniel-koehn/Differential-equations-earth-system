@@ -15,7 +15,7 @@ boundary conditions needs a second-order difference approximation to get second-
 is dedicated to the Poisson equation: we see the effect of having internal sources with an elliptic equation.
 We also learn about algebraic convergence of iterative methods and protest at how slow the Jacobi method is.
 
-* In [lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/07_BVP_2D/03_Iterative_Solvers.ipynb) 
+* In [lesson 3](https://nbviewer.jupyter.org/github/daniel-koehn/Differential-equations-earth-system/blob/master/07_BVP_2D/03_Iterative_Solvers.ipynb) 
 we improve on the Jacobi method: we look at Gauss-Seidel and successive over-relaxation (SOR) schemes.
 
 * [Lesson 4](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/07_BVP_2D/04_Conjugate_Gradient.ipynb) 

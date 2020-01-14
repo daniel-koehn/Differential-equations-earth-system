@@ -25,6 +25,16 @@ In order to solve the 2D thermal mantle convection in the next class, we first h
 To mitigate the effect of numerical diffusion, we solve the problem by implementing a 2D Marker-in-Cell code based on our 1D implementation from 
 [this notebook](https://nbviewer.jupyter.org/github/daniel-koehn/Differential-equations-earth-system/blob/master/04_Advection_1D/03_Numerical_Diffusion.ipynb).
 
+### [Lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/08_Convection_2D/03_2D_Linear_Advection_Diffusion.ipynb): 2D Linear Advection-Diffusion Equation
+
+After solving the 2D linear advection problem in the last notebook, we have to add the diffusion equation to the problem. The resulting 2D advection-diffusion 
+equation can be solved by separating the diffusion from the advection problem using operator splitting and applying the Marker-in-Cell method to the advection 
+problem, while the diffusion problem is solved by finite-differences.
+
+### [Lesson 4](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/08_Convection_2D/04_2D_Thermal_Mantle_Convection.ipynb): 2D Time-Dependent Thermal Mantle Convection Modelling
+
+Finally, we can assemble our 2D time-dependent thermal convection code and compute the evolution of the temperature field for different initial conditions.
+
 ## Copyright and License
 
 (c) 2019 D. Koehn, based on (c) 2018 L.A. Barba, G.F. Forsyth [CFD Python](https://github.com/barbagroup/CFDPython#cfd-python), (c) 2014 L.A. Barba, I. Hawke, B. Knaepen [Practical Numerical Methods with Python](https://github.com/numerical-mooc/numerical-mooc#practical-numerical-methods-with-python).

@@ -4,7 +4,7 @@ In this module, we develop a basic 2D Shallow Water Equations solver in order to
 
 ## Lecture 10: 2D Shallow Water Equations
 
-### [Lesson 1](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/10_Shallow_Water_Equation_2D/01_2D_Shallow_Water_Equations.ipynb): 2D Shallow Water Equations
+### [Lesson 1](https://nbviewer.jupyter.org/github/daniel-koehn/Differential-equations-earth-system/blob/master/10_Shallow_Water_Equation_2D/01_2D_Shallow_Water_Equations.ipynb): 2D Shallow Water Equations
 
 In the last class, we modelled fluid flow problems by solving the 2D Navier-Stokes equations. In this lecture, we will use an approximation to the Navier-Stokes equations - the 2D Shallow Water equations - in order 
 to model the excitation and propagation of Tsunamis and investigate the influence of different bathymetry models.

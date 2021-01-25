@@ -13,7 +13,7 @@ equations and finite-difference based solvers, a simple cavity flow problem is s
 
 In this notebook, we will use our very basic 2D Navier-Stokes solver to model the flow field in a channel, also known as Poiseuille flow.
 
-### [Lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/09_Navier_Stokes_2D/03_2D_Navier-Stokes_Flow_past_obstacles.ipynb): 2D Navier–Stokes - Fluid flow past obstacles
+### [Lesson 3](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/09_Navier_Stokes_2D/03_2D_Navier-Stokes_Flow_past_obstacles.ipynb): 2D Boltzmann - Fluid flow past obstacles
 
 So far, we described fluid flow by a continuum mechanics approach using the Navier-Stokes equations. An alternative is based on statistical 
 physics of particles phase space density distributions, leading to the Boltzmann equation. This allows a microscopic interpretation of 

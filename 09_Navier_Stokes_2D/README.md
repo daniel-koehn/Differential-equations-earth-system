@@ -20,6 +20,11 @@ physics of particles phase space density distributions, leading to the Boltzmann
 macroscopic fluid flow properties, like density, flow velocities and viscosity. We solve the Boltzmann equation using the Lattice-Boltzmann 
 method to model turbulent flow past a cylindrical obstacle.
 
+### [Lesson 4](http://nbviewer.ipython.org/urls/github.com/daniel-koehn/Differential-equations-earth-system/tree/master/09_Navier_Stokes_2D/04_2D_Euler_Kelvin_Helmholtz.ipynb): 2D Navier–Stokes - Kelvin-Helmholtz Instability
+
+In the last lecture of this chapter, we focus on gas flow in the earth atmosphere by solving the 2D Euler equations using the Finite-Volume Method.
+Specifically, we model the origin and evolution of the Kelvin-Helmholtz instability at an interface between areas with large density contrast and 
+opposite wind directions. We also discuss the influence of model resolution on the development of small scale vorticities and the flow field.
 
 ## Copyright and License
 

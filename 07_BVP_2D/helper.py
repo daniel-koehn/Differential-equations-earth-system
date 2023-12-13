@@ -167,7 +167,7 @@ def plot_3d(x, y, p, label='$z$', elev=30.0, azim=45.0):
         default: 45.0.
     """
     fig = pyplot.figure(figsize=(8.0, 6.0))
-    ax = mplot3d.Axes3D(fig)
+    ax = pyplot.axes(projection='3d')
     ax.set_xlabel('$x$')
     ax.set_ylabel('$y$')
     ax.set_zlabel(label)

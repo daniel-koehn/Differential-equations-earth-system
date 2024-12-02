@@ -1,0 +1,29 @@
+
+Git cloning ...
+---------------
+
+... the master branch
+
+git clone git@github.com:daniel-koehn/Differential-equations-earth-system.git
+
+... only the latest master branch update 
+
+git clone --depth=1 git@github.com:daniel-koehn/Differential-equations-earth-system.git
+
+... a developing branch
+
+git clone -b branch_name git@github.com:daniel-koehn/Differential-equations-earth-system.git
+
+
+Update of Github Differential-equations-earth-system repository
+---------------------------------------------------------------
+
+1. Move to Differential-equations-earth-system directory
+2. git add -A
+3. git commit -m "Comment on the latest update"
+
+For a specific branch ...
+4. git push origin branch_name
+
+For master branch ...
+4. git push origin master
